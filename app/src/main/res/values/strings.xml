@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BookListing</string>
+
+    <string name="no_authors">Author Unavailable</string>
+    <string name="book_free">Free</string>
+    <string name="book_not_for_sale">Not for sale</string>
+    <string name="book_for_preorder">For preorder</string>
+
+
+    <string name="no_internet_connection">No Internet Connection</string>
+    <string name="enter_query">Enter query</string>
+    <string name="search_published_books">Enter keyword to search published books</string>
+    <string name="no_books_found">No Books found</string>
+</resources>
